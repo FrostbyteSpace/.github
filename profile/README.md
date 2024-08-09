@@ -1,4 +1,3 @@
 # Frostbyte Space 🪐
 ## Development team for Frostbyte services. 
-
-Z wuz here
+### The team has since dissolved. Repos remain public for archival.
